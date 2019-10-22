@@ -1,3 +1,5 @@
 spring:
   profies:
     active: dev
+  application:
+    name: mall-config
