@@ -1,7 +1,7 @@
 spring:
   profies:
     active: 
-       - dev
+    - dev
 ---
 spring:
   profies:
