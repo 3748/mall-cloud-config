@@ -1,17 +1,5 @@
 spring:
   profies:
-    - active: dev
-   
----
-spring:
-  profies:
     active: dev
   application:
     name: mall-config-dev
-  
----
-spring:
-  profies:
-    active: test
-  application:
-    name: mall-config-test
